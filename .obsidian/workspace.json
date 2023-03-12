@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "014b40d56bd57502",
+    "type": "split",
+    "children": [
+      {
+        "id": "effc2352e1d1b1d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f9cbb3d31de8ac7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/C REMBERING.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ebca60ef45e8791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/2 Relational Modal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "599a6fcee10be69b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DBMS/Attachment/relation_modal.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1d772987e3b70c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "620dcf54457591a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e82e9b3a2c075081",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "def8939765b0bbdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b8d332d76d7d5cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2ba914ad202e8754",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b87b88e8bd6b053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "562b9ef796c80f29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C/C REMBERING.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3fff2a12d58e12f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C/C REMBERING.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "625bb8323ff80881",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1881f8d3d33f13cd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C/C REMBERING.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e82e9b3a2c075081",
+  "lastOpenFiles": [
+    "DBMS/1 Introduction to DBMS.md",
+    "DBMS/2 Relational Modal.md",
+    "DBMS/Attachment/relation_modal.png",
+    "DBMS/Attachment",
+    "DBMS/CAREFULL.md",
+    "C/C REMBERING.md",
+    "DBMS"
+  ]
+}
