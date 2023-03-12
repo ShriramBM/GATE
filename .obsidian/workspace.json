@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/2 Relational Modal.md",
+                "file": "DBMS/1 Introduction to DBMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/C REMBERING.md",
+                "file": "DBMS/1 Introduction to DBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/C REMBERING.md",
+                "file": "DBMS/1 Introduction to DBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/C REMBERING.md"
+                "file": "DBMS/1 Introduction to DBMS.md"
               }
             }
           }
@@ -169,14 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82e9b3a2c075081",
+  "active": "3ebca60ef45e8791",
   "lastOpenFiles": [
-    "DBMS/1 Introduction to DBMS.md",
     "DBMS/2 Relational Modal.md",
+    "C/C REMBERING.md",
+    "DBMS/1 Introduction to DBMS.md",
     "DBMS/Attachment/relation_modal.png",
     "DBMS/Attachment",
     "DBMS/CAREFULL.md",
-    "C/C REMBERING.md",
     "DBMS"
   ]
 }
