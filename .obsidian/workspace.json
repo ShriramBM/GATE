@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/Binary Tree & types.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/Binary Tree & types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/Binary Tree & types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md"
+                "file": "DS/Trees/Binary Tree & types.md"
               }
             }
           }
@@ -171,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82e9b3a2c075081",
+  "active": "f4f3e5d6d2896e77",
   "lastOpenFiles": [
+    "DS/Trees/Tree Formulas.md",
     "Math",
     "DS/Trees/Binary Tree & types.md",
-    "DS/Trees/Tree Formulas.md",
     "DS/Attachment/level_nodes.png",
     "DS/Trees/Trees Terminalogy.md",
     "Untitled.canvas",
@@ -203,7 +203,6 @@
     "TOC/FSM/FSM_REGULAR_LANG/DFSM.md",
     "DBMS/Attachment/relation_modal.png",
     "TOC/FSM/FSM.md",
-    "git_push~",
     "FSM_REGULAR_LANG/Untitled.md",
     "DBMS/CAREFULL.md"
   ]

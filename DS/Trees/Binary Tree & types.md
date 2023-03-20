@@ -1,4 +1,5 @@
-T> -> Each node can have atmost 2 children
+ -> Each node can have atmost 2 children
+
 >example:
 >```mermaid
 >	flowchart
