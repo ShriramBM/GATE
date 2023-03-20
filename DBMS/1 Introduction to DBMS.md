@@ -16,6 +16,7 @@
 > 	It is a `plan`  for organising the data> 	
  	
 ex:CUSTOMER scema
+
 |NAME|CUST_ID|ACCOUNT|ACC_ID|NUMBER|   
 |-----|-----|-----|----|--| 	
 

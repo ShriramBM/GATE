@@ -43,7 +43,24 @@
 
 
 ### Keys
+>It is used to uniquely identify the any record or row of the data from the table.
 
+#### Types of Keys
+
+- **Primary Key**
+>It is used identify *one and only* Instance of an entity uniquely
+>for example :
+> EMPLOYEE -> EMP_ID, EMP_NAME, EMP_ADDRESS, here we can consider *EMP_ID* as Primary Key 
+
+- **Candidate Key**
+>It is set Attribute that can uniquely identify a tuple
+>-> note Except primary Key, The remaining attributes are considered as Candidate Key
 >
+>for example
+>EMPLOYEE -> EMP_ID, EMP_NAME, EMP_PASSPORT, EMP_AADHAR, EMP_LICENSE
+>Here we can consider EMP_PASSPORT, EMP_AADHAR or EMP_LICENSE  can be consider as Candidate key(Minimal Possible)
+>
+>Here Name is not considered as Candidate Key because of Redundency
 
-
+- **Super Key or Key**
+>It is attribute or set attribute that uniquly identify each record of relation  
