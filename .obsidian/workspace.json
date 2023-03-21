@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "9832e1dcd938ccf9",
+        "id": "73dc50d51c80bd6c",
         "type": "tabs",
         "children": [
           {
-            "id": "622b4d738b20d6e7",
+            "id": "84ba2d0eb997dd57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Trees Terminalogy.md",
+                "file": "DS/Trees/Binary Tree.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0bd846c3e57b4e28",
+            "id": "07c41a48c759b4c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Binary Tree & types.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4f3e5d6d2896e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS/Trees/Binary Tree & types.md",
+                "file": "DS/Trees/Tree Formulas.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "2ba914ad202e8754",
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/Binary Tree & types.md",
+                "file": "DS/Trees/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/Binary Tree & types.md",
+                "file": "DS/Trees/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/Binary Tree & types.md"
+                "file": "DS/Trees/Binary Tree.md"
               }
             }
           }
@@ -171,13 +159,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f4f3e5d6d2896e77",
+  "active": "84ba2d0eb997dd57",
   "lastOpenFiles": [
     "DS/Trees/Tree Formulas.md",
-    "Math",
-    "DS/Trees/Binary Tree & types.md",
-    "DS/Attachment/level_nodes.png",
+    "DS/Trees/Binary Tree.md",
+    "DS/Attachment/max_tot_node_h.png",
+    "DS/Attachment/min_tot_node_h.png",
+    "Pasted image 20230321050048.png",
     "DS/Trees/Trees Terminalogy.md",
+    "max_total_nodes_tree.png.md",
+    "Math",
+    "DS/Attachment/level_nodes.png",
     "Untitled.canvas",
     "DS/Trees",
     "DS/Attachment/level_of_tree.png",
