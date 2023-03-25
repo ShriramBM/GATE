@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Binary Tree.md",
+                "file": "DS/Trees/Tree Formulas.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "RUST/Introduction.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2ba914ad202e8754",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/Binary Tree.md",
+                "file": "RUST/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/Binary Tree.md",
+                "file": "RUST/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/Binary Tree.md"
+                "file": "RUST/Introduction.md"
               }
             }
           }
@@ -159,14 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84ba2d0eb997dd57",
+  "active": "07c41a48c759b4c0",
   "lastOpenFiles": [
     "DS/Trees/Tree Formulas.md",
+    "RUST/Introduction.md",
+    "RUST/Guessing Game.md",
+    "Math/P & C/Permutation.md",
+    "Math/P & C",
+    "RUST",
     "DS/Trees/Binary Tree.md",
+    "DS/Trees/Trees Terminalogy.md",
+    "C/C REMBERING.md",
     "DS/Attachment/max_tot_node_h.png",
     "DS/Attachment/min_tot_node_h.png",
     "Pasted image 20230321050048.png",
-    "DS/Trees/Trees Terminalogy.md",
     "max_total_nodes_tree.png.md",
     "Math",
     "DS/Attachment/level_nodes.png",
@@ -188,9 +194,6 @@
     "Math/College_Algebra/Rules/EXPONENT RULE.md",
     "Math/College_Algebra/Rules/Factoring.md",
     "Math/College_Algebra/Rules/RADICAL RULE.md",
-    "C/C REMBERING.md",
-    "Math/College_Algebra/Rules",
-    "Math/College_Algebra",
     "[.md",
     "TOC/FSM/FSM_REGULAR_LANG/DFSM.md",
     "DBMS/Attachment/relation_modal.png",
