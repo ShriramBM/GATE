@@ -39,7 +39,7 @@
 >$log_2(2^{h+1}) = log_2(n+1)$                 # multipling $log_2$ on both side
 >$h+1 = log_2(n+1)$                       # cancel the $log_2$ by power 2 it becomes h+1
 >
->$h+1 = log_2(n+1) - 1$  <=> min_height of max_nodes of tree
+>$h = log_2(n+1) - 1$  <=> min_height of max_nodes of tree
 >
 >-> Find the Max Height of the tree with Min N nodes
 >$n = h+1$
@@ -64,6 +64,8 @@
 >	C --> F((F))
 >	E --> G((G))
 >	E--> H((H))
+>	F --> I((I))
+>	F --> K((K))
 >```
 >**Some formalas**
 >number_of leaf nodes = number_of internal node + 1
@@ -73,23 +75,32 @@
 >--> note it should contain 0 or 2 child as example. it could left or right.
 
 - **Complete Binary Tree**
-> It is a binary tree and it may contain 0 , 1 or 2 childers. The main thing is `it should be as left as possible` then its called Complete Binary tree.
+> It is a binary tree and it may contain 0 or 2 childers at last level may have 1 child. The main thing is `it should be as left as possible` then its called Complete Binary tree. And `All the level should completly filled except Last level` 
+>
+>(!)
 >```mermaid
 >	flowchart
 >	A((A)) --> B((B))
 >	A --> C((C))
 >	B --> E((E))
 >	B --> F((F))
+>	C --> L((L))
+>	C --> M((M))
 >	E --> G((G))
 >	E--> H((H))
->	
->	a((A)) --> b((B))
->	a--> c((C))
->	b --> e((E))
->	b --> f((F))
->	e --> g((G))
->	
 >```
+>(!!)
+>```mermaid
+>	flowchart
+>	A((A)) --> B((B))
+>	A --> C((C))
+>	B --> E((E))
+>	B --> F((F))
+>	C --> L((L))
+>```
+>Note in above L node is left not right i cannot draw left perfectly
+
+- Perfect Binary tree
 
 
 

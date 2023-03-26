@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RUST/Introduction.md",
-                "mode": "preview",
+                "file": "DS/Trees/Binary Tree.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RUST/Introduction.md",
+                "file": "DS/Trees/Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RUST/Introduction.md",
+                "file": "DS/Trees/Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RUST/Introduction.md"
+                "file": "DS/Trees/Binary Tree.md"
               }
             }
           }
@@ -161,14 +161,15 @@
   },
   "active": "07c41a48c759b4c0",
   "lastOpenFiles": [
+    "C/Data_types/Float_Double.md",
+    "DS/Trees/Binary Tree.md",
+    "DS/Trees/Trees Terminalogy.md",
     "DS/Trees/Tree Formulas.md",
     "RUST/Introduction.md",
     "RUST/Guessing Game.md",
     "Math/P & C/Permutation.md",
     "Math/P & C",
     "RUST",
-    "DS/Trees/Binary Tree.md",
-    "DS/Trees/Trees Terminalogy.md",
     "C/C REMBERING.md",
     "DS/Attachment/max_tot_node_h.png",
     "DS/Attachment/min_tot_node_h.png",
@@ -184,7 +185,6 @@
     "DM/SET/Set Theory.md",
     "Math/Precalculas/Composite function.md",
     "Math/Precalculas",
-    "C/Data_types/Float_Double.md",
     "C/Data_types",
     "DM/SET",
     "DM",
