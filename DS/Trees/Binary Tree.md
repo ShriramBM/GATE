@@ -101,6 +101,41 @@
 >Note in above L node is left not right i cannot draw left perfectly
 
 - Perfect Binary tree
+> In perfect binary Node can have 0 or 2 child in all the level , fully filled.
+> 
+>Example;
+>```mermaid
+>	flowchart
+>	A((A)) --> B((B))
+>	A --> C((C))
+>	B --> E((E))
+>	B --> F((F))
+>	C --> L((L))
+>	C --> M((M))
+>```
+>note here every node should to filled
+>-> both maximum and minimum total_nodes
+> $2^{h}+2^{h}-1 = 2^{h+1}-1$ 
+> 
+>refer here [[max_tot_node_h.png]]
 
+- Degenareted Binary tree
+> In deganareted binary tree can have zero or one child we can also call it has a skewed binary tree. 
+> left skewed or right skewed  or skewed
+> -> both maximum and minimum number of nodes for h
+> $TotalNodes = h+1$
+> refer here for diagram of degenarated binary tree [[skewed.png]]
+> refer here [[min_tot_node_h.png]]
 
-
+### Types of binary tree with Tables
+>
+>h_w_max ==> Finding the height `When there is  maximum number` of nodes  
+>h_w_min ==> Finding the height `When there is  minimum number` of nodes
+>
+>|sl_no|Tree|Max_nodes|Min_nodes|h_w_max|h_w_min|
+>|-|----|------------|-----------|------------------|-----------------|
+>|0|Binary_tree|$2^{h+1}-1$|$h+1$|$log_2(n+1) - 1$|$n-1$ |
+>|1|Fullbinary_tree|$2^{h+1}-1$|$2h+1$|$log_2(n+1) - 1$|$(n-1)/2$ |
+>|2|Complete_binary_tree|$2^{h+1}-1$|$2^h$|$log_2(n+1) - 1$|$log_2(n)$|
+>|3|Perfect_binary_tree|$2^{h+1}-1$|$2^{h+1}-1$|$log_2(n+1) - 1$|$log_2(n+1) - 1$|
+>|4|Degenarated_binary_tree|$h+1$|$h+1$|$n-1$ |$n-1$ |

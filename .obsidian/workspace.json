@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/Binary Tree Traversal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07c41a48c759b4c0",
+            "id": "07413ac312e87506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Binary Tree.md",
+                "file": "DS/Trees/Tree Formulas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b308a289b2f1783d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/Trees/Tree Formulas.md",
                 "mode": "preview",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/Binary Tree.md",
+                "file": "DS/Trees/Tree Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/Binary Tree.md",
+                "file": "DS/Trees/Tree Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/Binary Tree.md"
+                "file": "DS/Trees/Tree Formulas.md"
               }
             }
           }
@@ -159,19 +171,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07c41a48c759b4c0",
+  "active": "07413ac312e87506",
   "lastOpenFiles": [
-    "C/Data_types/Float_Double.md",
-    "DS/Trees/Binary Tree.md",
-    "DS/Trees/Trees Terminalogy.md",
+    "DS/Trees/Binary Tree Traversal.md",
     "DS/Trees/Tree Formulas.md",
+    "DS/Trees/Binary Tree.md",
+    "DS/Trees/Array Representation.md",
+    "DS/Trees/Implementation of tree.md",
+    "DS/Trees/Trees Terminalogy.md",
+    "DS/Attachment/skewed.png",
+    "DS/Attachment/max_tot_node_h.png",
+    "C/Data_types/Float_Double.md",
     "RUST/Introduction.md",
     "RUST/Guessing Game.md",
     "Math/P & C/Permutation.md",
     "Math/P & C",
     "RUST",
     "C/C REMBERING.md",
-    "DS/Attachment/max_tot_node_h.png",
     "DS/Attachment/min_tot_node_h.png",
     "Pasted image 20230321050048.png",
     "max_total_nodes_tree.png.md",
