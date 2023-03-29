@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Binary Tree Traversal.md",
+                "file": "DS/Trees/Binary Tree/Binary Tree Traversal.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "07413ac312e87506",
+            "id": "0588420a672dcd0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/BST/BST.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/BST/BST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md",
+                "file": "DS/Trees/BST/BST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/Tree Formulas.md"
+                "file": "DS/Trees/BST/BST.md"
               }
             }
           }
@@ -171,14 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07413ac312e87506",
+  "active": "0588420a672dcd0c",
   "lastOpenFiles": [
-    "DS/Trees/Binary Tree Traversal.md",
-    "DS/Trees/Tree Formulas.md",
-    "DS/Trees/Binary Tree.md",
-    "DS/Trees/Array Representation.md",
-    "DS/Trees/Implementation of tree.md",
+    "DS/Trees/BST",
+    "DS/Trees/Binary Tree",
     "DS/Trees/Trees Terminalogy.md",
+    "DS/Trees/Tree Formulas.md",
+    "DS/Trees/BST/BST.md",
+    "DBMS/2 Relational Modal.md",
+    "DS/Attachment/delete_BST.png",
+    "DS/Attachment/Insert_BST.png",
+    "DS/Trees/Binary Tree/Binary Tree Traversal.md",
+    "DS/Attachment/preorder_postorder.png",
+    "DS/Attachment/inorder_postorder.png",
+    "DS/Attachment/inorder_preorder.png",
+    "Goal.md",
+    "DS/Trees/Binary Tree/Binary Tree.md",
+    "DS/Trees/Binary Tree/Array Representation.md",
+    "DS/Trees/Binary Tree/Implementation of tree.md",
     "DS/Attachment/skewed.png",
     "DS/Attachment/max_tot_node_h.png",
     "C/Data_types/Float_Double.md",
@@ -195,7 +205,6 @@
     "DS/Attachment/level_nodes.png",
     "Untitled.canvas",
     "DS/Trees",
-    "DS/Attachment/level_of_tree.png",
     "DS/Attachment",
     "DS",
     "DM/SET/Set Theory.md",
@@ -203,18 +212,13 @@
     "Math/Precalculas",
     "C/Data_types",
     "DM/SET",
-    "DM",
     "C/STUCTURES.md",
     "DBMS/1 Introduction to DBMS.md",
-    "DBMS/2 Relational Modal.md",
     "Math/College_Algebra/Rules/EXPONENT RULE.md",
     "Math/College_Algebra/Rules/Factoring.md",
     "Math/College_Algebra/Rules/RADICAL RULE.md",
     "[.md",
     "TOC/FSM/FSM_REGULAR_LANG/DFSM.md",
-    "DBMS/Attachment/relation_modal.png",
-    "TOC/FSM/FSM.md",
-    "FSM_REGULAR_LANG/Untitled.md",
-    "DBMS/CAREFULL.md"
+    "TOC/FSM/FSM.md"
   ]
 }

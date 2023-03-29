@@ -43,5 +43,8 @@
 >- **Postorder** :- left -> right -> root
 >refer [[Binary Tree Traversal]]
 
-
+### 8. Binary Search Tree
+> Inserting: binary search tree place smallest to left and largest to right
+> deleting: follow inorder predecessor or inorder successor (two child)
+> refer [[BST]]
 
