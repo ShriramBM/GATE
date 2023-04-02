@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DS/Trees/Binary Tree/Binary Tree Traversal.md",
+                "file": "DS/Trees/Tree Formulas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69638aa99ad05eef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DS/Trees/BST/B Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,33 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7ac8da59b93cae21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS/Trees/BST/AVL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b308a289b2f1783d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DS/Trees/Tree Formulas.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/BST/AVL.md",
+                "file": "DS/Trees/Tree Formulas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/BST/AVL.md",
+                "file": "DS/Trees/Tree Formulas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/BST/AVL.md"
+                "file": "DS/Trees/Tree Formulas.md"
               }
             }
           }
@@ -183,16 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ac8da59b93cae21",
+  "active": "84ba2d0eb997dd57",
   "lastOpenFiles": [
-    "DS/Trees/Trees Terminalogy.md",
-    "DS/Trees/Tree Formulas.md",
     "DS/Trees/BST/AVL.md",
     "DS/Trees/BST/BST.md",
+    "DS/Trees/BST/B Tree.md",
+    "DS/Trees/Binary Tree/Binary Tree.md",
+    "DS/Trees/Tree Formulas.md",
     "DS/Trees/Binary Tree/Binary Tree Traversal.md",
+    "DS/Trees/Trees Terminalogy.md",
     "DS/Trees/Binary Tree/Array Representation.md",
     "DS/Trees/Binary Tree/Implementation of tree.md",
-    "DS/Trees/Binary Tree/Binary Tree.md",
     "DS/Trees/BST",
     "DS/Trees/Binary Tree",
     "DBMS/2 Relational Modal.md",
@@ -230,7 +218,6 @@
     "Math/College_Algebra/Rules/Factoring.md",
     "Math/College_Algebra/Rules/RADICAL RULE.md",
     "[.md",
-    "TOC/FSM/FSM_REGULAR_LANG/DFSM.md",
-    "TOC/FSM/FSM.md"
+    "TOC/FSM/FSM_REGULAR_LANG/DFSM.md"
   ]
 }

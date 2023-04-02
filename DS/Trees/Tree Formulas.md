@@ -1,6 +1,6 @@
 ### 1. How many Edges
 
->For every `N nodes their will be N - 1  edges`. For reference [[Trees Terminalogy]]
+>For every `N nodes their will be N - 1  edges`. refer [[Trees Terminalogy]]
 
 ### 2.   How many nodes at certain levels
 >   $number..of..nodes..at..that..level = 2 ^ {level}$ . refer [[Binary Tree]]
@@ -48,3 +48,12 @@
 > deleting: follow inorder predecessor or inorder successor (two child)
 > refer [[BST]]
 
+### 9. AVL tree
+
+>- AVL rotation = LL, LR, RL, RR
+>- min_height = $floor(log_2(n))$  
+>- max_height =  $1.44 * (log_2(n))$
+>- max_nodes = $2^{h+1} - 1$
+>- min_nodes = $N(h) = N(h-1)+N(h-2)+1$        { for n > 2 , where N(1) = 2 & N(0) = 1 } 
+>- time_complexity = $Olog(n)$
+>refer [[AVL]]
