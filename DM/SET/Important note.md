@@ -1,0 +1,2 @@
+- The sets {1, 3, 5} and {3, 5, 1} are equal, because they have the same elements. Note that the order in which the elements of a set are listed does not matter.
+- Note also that it does not matter if an element of a set is listed more than once, so {1, 3, 3, 3, 5, 5, 5, 5} is the same as the set {1, 3, 5} because they have the same elements.

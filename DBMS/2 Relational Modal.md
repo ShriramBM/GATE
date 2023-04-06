@@ -39,7 +39,7 @@
 >	Thus,  a relation is a set of n -tuples($a_1, a_2,a_3,a_4,a_5,......,a_n,$) 
 >	where $A_i \in D_i$
 >	{($a_1, a_2,a_3,a_4,a_5,......,a_n,$) $\in$ $D_1\times D_2\times D_3\times...D_n$}
->![[relation_modal.png]]
+>[[relation_modal.png]]
 
 
 ### Keys
