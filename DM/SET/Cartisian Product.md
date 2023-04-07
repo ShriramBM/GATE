@@ -46,4 +46,15 @@ Note The Cartesian products A × B and B × A are not equal, unless A = ∅ or B
 
 We use the notation $A^2$ to denote A × A, the Cartesian product of the set A with itself.
 Similarly, $A^3$ = A × A × A,  $A^4$ = A × A × A × A, and so on. More generally
-$A^n$ ={($a_1 , a_2 , . . . , a_n$ ) | $a_i$ ∈ $A$ for i = 1, 2, . . . , n}.f
+$A^n$ ={($a_1 , a_2 , . . . , a_n$ ) | $a_i$ ∈ $A$ for i = 1, 2, . . . , n}.
+
+### Relation (Chapter 9 in Book)
+> A subset R of the Cartesian product A × B is called a relation from the set A to the set B.
+>
+>The elements of R are ordered pairs, where the first element belongs to A and the second to B. For example, R = {(a, 0), (a, 1), (a, 3), (b, 1), (b, 2), (c, 0), (c, 3)} is a relation from the set {a, b, c} to the set {0, 1, 2, 3}. A relation from a set A to itself is called a relation on A.
+
+### Examples
+
+1. What are the ordered pairs in the less than or equal to relation, which contains (a, b) if a ≤ b, on the set {0, 1, 2, 3}?
+	Solution: The ordered pair (a, b) belongs to R if and only if both a and b belong to {0, 1, 2, 3} and a ≤ b. Consequently, the ordered pairs in R are (0,0), (0,1), (0,2), (0,3), (1,1), (1,2), (1,3), (2,2), (2, 3), and (3, 3).
+We will study relations and their properties at length in Chapter 9(Book).

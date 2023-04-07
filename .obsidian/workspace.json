@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "73dc50d51c80bd6c",
+        "id": "40e53858bf0a6085",
         "type": "tabs",
         "children": [
           {
-            "id": "84ba2d0eb997dd57",
+            "id": "c8515daeaed4c9be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/SET/Set Theory.md",
+                "file": "DM/Propositional_logic/Equivalences.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f3d6972b74dd07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/SET/Set Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d08441db54aee38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/SET/Size of SET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da16caa6816ce80f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/SET/Power Set.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7ba17db49b0cc5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/SET/Cartisian Product.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "840a635e4f5bd6a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM/SET/Set Theory.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/SET/Cartisian Product.md",
+                "file": "DM/Propositional_logic/Equivalences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/SET/Cartisian Product.md",
+                "file": "DM/Propositional_logic/Equivalences.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/SET/Cartisian Product.md"
+                "file": "DM/Propositional_logic/Equivalences.md"
               }
             }
           }
@@ -207,17 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7ba17db49b0cc5e",
+  "active": "c8515daeaed4c9be",
   "lastOpenFiles": [
-    "DM/SET/Important note.md",
+    "DM/Propositional_logic/Application.md",
+    "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
+    "DM/Propositional_logic/Attachment",
+    "DM/Propositional_logic/Equivalences.md",
     "DM/SET/Cartisian Product.md",
+    "DM/Propositional_logic",
     "DM/SET/Power Set.md",
-    "DM/SET/Untitled",
     "DM/SET/Size of SET.md",
-    "DM/SET/Empty Set.md",
-    "DM/SET/Set Theory.md",
     "DM/SET/Subsets.md",
     "DM/SET/Equal Set.md",
+    "DM/SET/Empty Set.md",
+    "DM/SET/Set Theory.md",
+    "DM/SET/Important note.md",
+    "DM/SET/Untitled",
     "**[[venn_subset.png]]**",
     "The",
     "-",
@@ -225,8 +169,6 @@
     "We",
     "**Defination",
     "between",
-    "a",
-    "It",
     "Pasted image 20230406184806 1.png",
     "DM/SET/Attachment/venn_subset.png",
     "DM/SET/Attachment/Set _of_vowels.png",
@@ -245,16 +187,12 @@
     "DS/Trees/Tree Formulas.md",
     "DS/Trees/BST/AVL.md",
     "DS/Trees/BST/BST.md",
-    "DS/Trees/Binary Tree/Binary Tree.md",
-    "DS/Trees/Binary Tree/Binary Tree Traversal.md",
-    "DS/Trees/Trees Terminalogy.md",
     "DS/Attachment/delete_BST.png",
     "DS/Attachment/Insert_BST.png",
     "DS/Attachment/preorder_postorder.png",
     "DS/Attachment/inorder_postorder.png",
     "DS/Attachment/inorder_preorder.png",
     "DS/Attachment/skewed.png",
-    "DS/Attachment/max_tot_node_h.png",
     "Untitled.canvas"
   ]
 }
