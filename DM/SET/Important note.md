@@ -1,2 +1,5 @@
 - The sets {1, 3, 5} and {3, 5, 1} are equal, because they have the same elements. Note that the order in which the elements of a set are listed does not matter.
 - Note also that it does not matter if an element of a set is listed more than once, so {1, 3, 3, 3, 5, 5, 5, 5} is the same as the set {1, 3, 5} because they have the same elements.
+- we can show that if A and B are sets with A ⊆ B and B ⊆ A, then A = B refer [[Subsets]].
+- The term cardinality comes from the common usage of the term cardinal number as the size of a finite set [[Size of SET]].
+- The Cartesian products A × B and B × A are not equal, unless A = ∅ or B = ∅ [[Cartisian Product]]
