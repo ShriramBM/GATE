@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6e5d315808a7bd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/ER Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md",
+                "file": "DBMS/ER Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md",
+                "file": "DBMS/ER Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md"
+                "file": "DBMS/ER Model.md"
               }
             }
           }
@@ -146,14 +159,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8515daeaed4c9be",
+  "active": "e82e9b3a2c075081",
   "lastOpenFiles": [
+    "- (copy)",
+    "We (3rd copy)",
+    "**[[venn_subset (3rd copy).png]]**",
+    "The (6th copy)",
+    "The (5th copy)",
+    "The (4th copy)",
+    "We (another copy)",
+    "**[[venn_subset (another copy).png]]**",
+    "The (3rd copy)",
+    "The (another copy)",
+    "We (copy)",
+    "DBMS/Introduction/1 Introduction to DBMS.md",
+    "DBMS/ER Model.md",
+    "DM/Propositional_logic/Equivalences.md",
     "DM/Propositional_logic/Application.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
-    "DM/Propositional_logic/Attachment",
-    "DM/Propositional_logic/Equivalences.md",
     "DM/SET/Cartisian Product.md",
-    "DM/Propositional_logic",
     "DM/SET/Power Set.md",
     "DM/SET/Size of SET.md",
     "DM/SET/Subsets.md",
@@ -161,14 +185,6 @@
     "DM/SET/Empty Set.md",
     "DM/SET/Set Theory.md",
     "DM/SET/Important note.md",
-    "DM/SET/Untitled",
-    "**[[venn_subset.png]]**",
-    "The",
-    "-",
-    "**Some",
-    "We",
-    "**Defination",
-    "between",
     "Pasted image 20230406184806 1.png",
     "DM/SET/Attachment/venn_subset.png",
     "DM/SET/Attachment/Set _of_vowels.png",
@@ -180,13 +196,11 @@
     "Math/College_Algebra/Rules/RADICAL RULE.md",
     "Math/College_Algebra/Rules/Factoring.md",
     "Math/College_Algebra/Rules/EXPONENT RULE.md",
-    "DBMS/1 Introduction to DBMS.md",
-    "DBMS/2 Relational Modal.md",
+    "DBMS/Introduction/2 Relational Modal.md",
     "TOC/FSM/FSM.md",
     "TOC/FSM/FSM_REGULAR_LANG/DFSM.md",
     "DS/Trees/Tree Formulas.md",
     "DS/Trees/BST/AVL.md",
-    "DS/Trees/BST/BST.md",
     "DS/Attachment/delete_BST.png",
     "DS/Attachment/Insert_BST.png",
     "DS/Attachment/preorder_postorder.png",
