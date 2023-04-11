@@ -11,28 +11,13 @@
             "id": "c8515daeaed4c9be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6e5d315808a7bd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DBMS/ER/ER Model.md",
-                "mode": "source",
-                "source": false
+                "file": "DBMS/Attachments/company_db.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/ER/ER Model.md",
+                "file": "DBMS/Attachments/company_db.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/ER/ER Model.md",
+                "file": "DBMS/Attachments/company_db.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/ER/ER Model.md"
+                "file": "DBMS/Attachments/company_db.png"
               }
             }
           }
@@ -159,19 +144,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6e5d315808a7bd6",
+  "active": "e82e9b3a2c075081",
   "lastOpenFiles": [
-    "DBMS/Introduction/2 Relational Modal.md",
     "DBMS/ER/Relationship.md",
-    "DBMS/Attachments/ternary_relation.png",
-    "DBMS/ER/ER Symbols.md",
     "DBMS/ER/Entities and Attribute.md",
+    "DBMS/ER/ER Model.md",
+    "DBMS/ER/ER Symbols.md",
+    "DM/Propositional_logic/Application.md",
+    "DM/Propositional_logic/Equivalences.md",
+    "DM/SET/Cartisian Product.md",
+    "DM/SET/Important note.md",
+    "DM/SET/Set Theory.md",
+    "DM/SET/Subsets.md",
+    "DM/SET/Power Set.md",
+    "DM/SET/Size of SET.md",
+    "DBMS/Attachments/company_db.png",
+    "DBMS/Attachments/participation_constrains.png",
+    "DBMS/Attachments/Cardinality_ratio.png",
+    "DBMS/Introduction/2 Relational Modal.md",
+    "DBMS/Attachments/ternary_relation.png",
     "DBMS/Attachments/binary_relation.png",
     "DBMS/Attachments/UnaryRelationship.png",
     "DBMS/Attachments",
     "DBMS/Attachments/tutorialwing-dbms-er-diagram-components.webp",
-    "DBMS/ER/ER Model.md",
-    "DM/Propositional_logic/Equivalences.md",
     "DBMS/ER",
     "- (copy)",
     "We (3rd copy)",
@@ -182,19 +177,11 @@
     "We (another copy)",
     "**[[venn_subset (another copy).png]]**",
     "DBMS/Introduction/1 Introduction to DBMS.md",
-    "DM/Propositional_logic/Application.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
-    "DM/SET/Cartisian Product.md",
-    "DM/SET/Power Set.md",
-    "DM/SET/Size of SET.md",
-    "DM/SET/Subsets.md",
     "DM/SET/Equal Set.md",
     "DM/SET/Empty Set.md",
-    "DM/SET/Set Theory.md",
-    "DM/SET/Important note.md",
     "Pasted image 20230406184806 1.png",
     "DM/SET/Attachment/venn_subset.png",
-    "DM/SET/Attachment/Set _of_vowels.png",
     "DM/SET/Venn Diagrams.md",
     "DS/Trees/BST/B Tree.md",
     "Verbal/GRE tips.md",
@@ -204,8 +191,6 @@
     "Math/College_Algebra/Rules/Factoring.md",
     "Math/College_Algebra/Rules/EXPONENT RULE.md",
     "TOC/FSM/FSM.md",
-    "DS/Attachment/delete_BST.png",
-    "DS/Attachment/Insert_BST.png",
     "Untitled.canvas"
   ]
 }

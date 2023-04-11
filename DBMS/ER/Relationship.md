@@ -21,3 +21,30 @@
 
 > There is `link or Connection with Three Entites`
 > Example refer [[ternary_relation.png]]
+
+### Relationship Constriaints
+
+- **Cardinality Ratio (ORM in my lang)**
+> Maximum number of relationship instances that an entity can participate in.
+>
+>Possible Cardinality Ratio for binary relationship are
+>- 1 : 1 -> One to One relation
+>- 1 : N -> One to Many  relation
+>- N : 1 -> Many to One  relation
+>- M : N -> Many to Many relation
+>refer for example [[Cardinality_ratio.png]]
+
+- **Participation Constraints**
+> In this Constraint whether every Participate should or should have a relation with Entity
+> There is two types of Participation
+> - Partial Participation -> `-` -> Single line. 
+> - Total Participation -> `=` -> Double line.
+> 
+> refer for example [[participation_constrains.png]]
+
+### Reationship type Attribute
+- Attributes of 1 : 1 or 1 : N
+
+
+### Company Database 
+![[company_db.png]]

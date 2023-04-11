@@ -1,6 +1,6 @@
 ### Application of Propositional Logic
 
-- Traslating Englidh Sentences
+- Traslating English Sentences
 - System Specifications
 - Boolean Searches 
 - Logic Puzzles
