@@ -1,0 +1,1 @@
+![[tutorialwing-dbms-er-diagram-components.webp]]

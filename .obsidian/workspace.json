@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/ER Model.md",
+                "file": "DBMS/ER/ER Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/ER Model.md",
+                "file": "DBMS/ER/ER Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/ER Model.md",
+                "file": "DBMS/ER/ER Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/ER Model.md"
+                "file": "DBMS/ER/ER Model.md"
               }
             }
           }
@@ -159,8 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82e9b3a2c075081",
+  "active": "a6e5d315808a7bd6",
   "lastOpenFiles": [
+    "DBMS/Introduction/2 Relational Modal.md",
+    "DBMS/ER/Relationship.md",
+    "DBMS/Attachments/ternary_relation.png",
+    "DBMS/ER/ER Symbols.md",
+    "DBMS/ER/Entities and Attribute.md",
+    "DBMS/Attachments/binary_relation.png",
+    "DBMS/Attachments/UnaryRelationship.png",
+    "DBMS/Attachments",
+    "DBMS/Attachments/tutorialwing-dbms-er-diagram-components.webp",
+    "DBMS/ER/ER Model.md",
+    "DM/Propositional_logic/Equivalences.md",
+    "DBMS/ER",
     "- (copy)",
     "We (3rd copy)",
     "**[[venn_subset (3rd copy).png]]**",
@@ -169,12 +181,7 @@
     "The (4th copy)",
     "We (another copy)",
     "**[[venn_subset (another copy).png]]**",
-    "The (3rd copy)",
-    "The (another copy)",
-    "We (copy)",
     "DBMS/Introduction/1 Introduction to DBMS.md",
-    "DBMS/ER Model.md",
-    "DM/Propositional_logic/Equivalences.md",
     "DM/Propositional_logic/Application.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Cartisian Product.md",
@@ -196,17 +203,9 @@
     "Math/College_Algebra/Rules/RADICAL RULE.md",
     "Math/College_Algebra/Rules/Factoring.md",
     "Math/College_Algebra/Rules/EXPONENT RULE.md",
-    "DBMS/Introduction/2 Relational Modal.md",
     "TOC/FSM/FSM.md",
-    "TOC/FSM/FSM_REGULAR_LANG/DFSM.md",
-    "DS/Trees/Tree Formulas.md",
-    "DS/Trees/BST/AVL.md",
     "DS/Attachment/delete_BST.png",
     "DS/Attachment/Insert_BST.png",
-    "DS/Attachment/preorder_postorder.png",
-    "DS/Attachment/inorder_postorder.png",
-    "DS/Attachment/inorder_preorder.png",
-    "DS/Attachment/skewed.png",
     "Untitled.canvas"
   ]
 }

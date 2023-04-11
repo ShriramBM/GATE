@@ -25,4 +25,25 @@ Step 3
 
 Step 4
 - The finnal step is Physical design phase
-- Here internal storage structure , indexing , access path so will be done 
+- Here internal storage structure , indexing , access path so will be done
+
+
+### 3.2 Sample Database Application
+
+- Here we just take example and proceed with further
+- The example is **Company database** 
+- Then we move on to next stage like Conceptual schema -> ER diagarm
+
+- Company data
+	- employees
+	- department
+	- projects
+
+- Each Department -> name, unq number, employee who manage, locations etc
+
+- Department controll number of projects 
+
+- Employees ->name, ssn, address, salary, sex,BOD
+	- A employee assigned to one department but may work on several project 
+
+-----> Further check in your notes database 
