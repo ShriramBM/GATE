@@ -42,8 +42,13 @@
 > 
 > refer for example [[participation_constrains.png]]
 
+ 
 ### Reationship type Attribute
-- Attributes of 1 : 1 or 1 : N
+
+refer for example [[relationship_types_attributes.png]]
+- **1 : 1 relationship type** attributes can be migrated to `either of the entity` types
+- **1 : N or N : 1 relationship type** attributes can be migrated to `N-side of the relationship`
+- **M : N relationship type** some attributes can be determined by a `combination of participating entities`
 
 
 ### Company Database 

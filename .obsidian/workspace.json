@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "40e53858bf0a6085",
+        "id": "89f9aed375b41fe4",
         "type": "tabs",
         "children": [
           {
-            "id": "c8515daeaed4c9be",
+            "id": "fde05ac8396fa2fd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DBMS/Attachments/company_db.png"
+                "file": "DBMS/ER/Relationship.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/Attachments/company_db.png",
+                "file": "DBMS/ER/Relationship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/Attachments/company_db.png",
+                "file": "DBMS/ER/Relationship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/Attachments/company_db.png"
+                "file": "DBMS/ER/Relationship.md"
               }
             }
           }
@@ -144,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82e9b3a2c075081",
+  "active": "fde05ac8396fa2fd",
   "lastOpenFiles": [
-    "DBMS/ER/Relationship.md",
-    "DBMS/ER/Entities and Attribute.md",
-    "DBMS/ER/ER Model.md",
+    "DBMS/Attachments/relationship_types_attributes.png",
     "DBMS/ER/ER Symbols.md",
+    "DBMS/ER/Entities and Attribute.md",
+    "DBMS/ER/Relationship.md",
+    "DBMS/ER/ER Model.md",
+    "DBMS/Attachments/company_db.png",
     "DM/Propositional_logic/Application.md",
     "DM/Propositional_logic/Equivalences.md",
     "DM/SET/Cartisian Product.md",
@@ -158,7 +162,6 @@
     "DM/SET/Subsets.md",
     "DM/SET/Power Set.md",
     "DM/SET/Size of SET.md",
-    "DBMS/Attachments/company_db.png",
     "DBMS/Attachments/participation_constrains.png",
     "DBMS/Attachments/Cardinality_ratio.png",
     "DBMS/Introduction/2 Relational Modal.md",
