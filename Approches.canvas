@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"type":"text","text":"YT or Video ref","id":"b70d051e4d68925b","x":113,"y":-150,"width":165,"height":60},
+		{"type":"text","text":"\n OBSIDEAN NOTE","id":"566814cfb891052d","x":-150,"y":30,"width":200,"height":120,"color":"1"},
+		{"type":"text","text":"My Notes","id":"cb93247f4ab5f2a6","x":-120,"y":-300,"width":140,"height":90},
+		{"type":"text","text":"Book","id":"f470e0360002a3cc","x":-340,"y":-150,"width":100,"height":60},
+		{"type":"text","text":"Website reference","id":"d3e4a45a87f3225c","x":140,"y":180,"width":185,"height":50},
+		{"type":"text","text":"challeging MCQ","id":"f8305f988183b580","x":-522,"y":425,"width":250,"height":60},
+		{"type":"text","text":"new  topics by MCQ","id":"bb5dd63d4dc22bb7","x":-582,"y":230,"width":225,"height":60},
+		{"type":"text","text":"Buff Notes","id":"1ad133f17159f611","x":-785,"y":-150,"width":156,"height":60},
+		{"type":"text","text":"Practice MCQ websites","id":"a40668e2a8bc9398","x":-1035,"y":120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"13ebfcddd704b89b","fromNode":"566814cfb891052d","fromSide":"left","toNode":"1ad133f17159f611","toSide":"bottom","label":"page_no"},
+		{"id":"eb16528aea09079b","fromNode":"bb5dd63d4dc22bb7","fromSide":"right","toNode":"566814cfb891052d","toSide":"left"},
+		{"id":"1302c4ea1e5c2518","fromNode":"a40668e2a8bc9398","fromSide":"top","toNode":"1ad133f17159f611","toSide":"left"},
+		{"id":"625ab8b58a8e10ea","fromNode":"cb93247f4ab5f2a6","fromSide":"bottom","toNode":"566814cfb891052d","toSide":"top","label":"page_no"},
+		{"id":"b8996baa0d255be5","fromNode":"b70d051e4d68925b","fromSide":"bottom","toNode":"566814cfb891052d","toSide":"top"},
+		{"id":"b2da7e6dec7897b0","fromNode":"a40668e2a8bc9398","fromSide":"bottom","toNode":"bb5dd63d4dc22bb7","toSide":"left"},
+		{"id":"bc220d5c18875153","fromNode":"a40668e2a8bc9398","fromSide":"bottom","toNode":"f8305f988183b580","toSide":"left"},
+		{"id":"e6c64c76f3326e67","fromNode":"a40668e2a8bc9398","fromSide":"right","toNode":"566814cfb891052d","toSide":"left","label":"site_mcq_buff"},
+		{"id":"58c284a39af7968a","fromNode":"f8305f988183b580","fromSide":"right","toNode":"566814cfb891052d","toSide":"left"},
+		{"id":"d49570647334daef","fromNode":"f470e0360002a3cc","fromSide":"bottom","toNode":"566814cfb891052d","toSide":"top"},
+		{"id":"9252909df5d390a8","fromNode":"f470e0360002a3cc","fromSide":"left","toNode":"1ad133f17159f611","toSide":"right","label":"problem_page_no"}
+	]
+}

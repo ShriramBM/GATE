@@ -14,8 +14,23 @@ Note that we will use the term “compound proposition” to refer to an express
 **Contingency**
 >A compound propostion that is neither a `Tautology nor  a Contradiction` is called Contingency
 
+**Satisfiability**
+> Here it should contain `atleast One True result` in its truth table
+> example Conjection(AND) it at least contain one True result
+
+**Unsatisfiability**
+> Here we `cannot find even one single True Value` in the truth table
+
+**valid**
+> If a proposition is `tautalogy then it is valid`
+
+**Invalid** 
+> if a proposition is `Contradiction or Contingency`
+
+
 Tautologies and contradictions are often important in mathematical reasoning.
 [[Tautoloy_Contradiction_table.png]]
+
 
 ### Example
 
@@ -35,5 +50,30 @@ but rather is the statement that p <=> q is a tautology. The symbol ⇔ is somet
 of ≡ to denote logical equivalence.
 
 
+### Famous Logical Equivalences:
+
+T -> True, F -> False
+
+1. **Identity Laws**
+>(a) P ∧ T ≡ P
+>(b) P ∨ F ≡ P
 
 
+2. **Domination Laws**
+> (a) P ∨ T ≡ T
+> (b) P ∧ F ≡ F
+
+3.  **Idempotent Laws**
+> (a) P ∨ P ≡ P
+> (b) P ∧ P ≡ P
+
+4. **Double Negation Laws**
+> ¬(¬P) ≡ P
+
+
+
+**reference**
+refer YT 
+- [equivalence](https://www.youtube.com/watch?v=yo7aULLUz_0&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&index=16)
+refer Book 25
+refer Note 11

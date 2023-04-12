@@ -1,0 +1,2 @@
+- Tautology is always satisfiable but satisfiable is not always tautology
+- 
