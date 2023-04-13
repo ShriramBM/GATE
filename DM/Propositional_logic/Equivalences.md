@@ -58,7 +58,6 @@ T -> True, F -> False
 >(a) P ∧ T ≡ P
 >(b) P ∨ F ≡ P
 
-
 2. **Domination Laws**
 > (a) P ∨ T ≡ T
 > (b) P ∧ F ≡ F
@@ -70,10 +69,43 @@ T -> True, F -> False
 4. **Double Negation Laws**
 > ¬(¬P) ≡ P
 
+5. **Negation Laws**
+> (a) P ∨ ¬P = T
+> (b) P ∧ ¬P = F
+
+7. **Commutative laws**
+>(a) P ∨ Q ≡ Q ∨ P
+>(b) P ∧ Q ≡ Q ∧ P
+
+7. **Associative laws**
+> (a) (P ∨ Q) ∨ R ≡ P ∨ (Q ∨ R)
+> (b) (P ∧ Q) ∧ R ≡ P ∧ (Q ∧ R)
+
+8. **Distributive laws**
+> (a) P ∨ (Q ∧ R) ≡  (P ∨ Q) ∧ (P ∨ R)
+> (b) P ∧ (Q ∨ R) ≡  (P ∧ Q) ∨ (P ∧ R)
+
+9. **Demorgans Laws**
+> (a) ¬(P ∧ Q) ≡ ¬P ∨ ¬Q
+> (b) ¬(P ∨ Q) ≡ ¬P ∧ ¬Q 
+
+10. **Absorption Laws**
+> (a) P ∨ (P ∧ Q) ≡ P
+> (b) P ∧ (P ∨ Q) ≡ P
+>refer notes proof
+
+
+### Logical Equivalences with Conditional logic
+
+1. p → q ≡ ¬p ∨ q
+> proof is the notes 
 
 
 **reference**
 refer YT 
 - [equivalence](https://www.youtube.com/watch?v=yo7aULLUz_0&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&index=16)
+- [logical equivalence](https://www.youtube.com/watch?v=tDH67yRNXzI&list=PLBlnK6fEyqRhqJPDXcvYlLfXPh37L89g3&index=17)
+
 refer Book 25
 refer Note 11
+

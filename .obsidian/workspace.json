@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "a2bb1aa20ee83e8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM/Propositional_logic/ICCI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ce5aebd90c46c21d",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md",
+                "file": "DM/Propositional_logic/ICCI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md",
+                "file": "DM/Propositional_logic/ICCI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/Propositional_logic/Equivalences.md"
+                "file": "DM/Propositional_logic/ICCI.md"
               }
             }
           }
@@ -158,10 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26e0891aa8bf6b04",
+  "active": "a2bb1aa20ee83e8c",
   "lastOpenFiles": [
-    "DM/Propositional_logic/Application.md",
     "DM/Propositional_logic/Equivalences.md",
+    "DM/Propositional_logic/ICCI.md",
+    "DM/Propositional_logic/codes/practice.lua",
+    "DM/Propositional_logic/codes/implecation.lua",
+    "DM/Propositional_logic/codes/implecation.c",
+    "DM/Propositional_logic/Application.md",
     "DM/Propositional_logic/important note.md",
     "C/Data_types/Float_Double.md",
     "Approches.canvas",
@@ -191,9 +208,6 @@
     "**[[venn_subset (3rd copy).png]]**",
     "The (6th copy)",
     "The (5th copy)",
-    "The (4th copy)",
-    "We (another copy)",
-    "**[[venn_subset (another copy).png]]**",
     "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Equal Set.md",
@@ -205,7 +219,6 @@
     "Math/Precalculas/Composite function.md",
     "Math/P & C/Permutation.md",
     "Math/College_Algebra/Rules/RADICAL RULE.md",
-    "Math/College_Algebra/Rules/Factoring.md",
-    "Math/College_Algebra/Rules/EXPONENT RULE.md"
+    "Math/College_Algebra/Rules/Factoring.md"
   ]
 }
