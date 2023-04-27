@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM/Propositional_logic/ICCI.md",
+                "file": "DS/Trees/BST/AVL.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM/Propositional_logic/ICCI.md",
+                "file": "DS/Trees/BST/AVL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM/Propositional_logic/ICCI.md",
+                "file": "DS/Trees/BST/AVL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM/Propositional_logic/ICCI.md"
+                "file": "DS/Trees/BST/AVL.md"
               }
             }
           }
@@ -173,8 +173,11 @@
   },
   "active": "a2bb1aa20ee83e8c",
   "lastOpenFiles": [
-    "DM/Propositional_logic/Equivalences.md",
+    "DS/Trees/Tree Formulas.md",
+    "DS/Trees/Trees Terminalogy.md",
+    "DM/SET/Empty Set.md",
     "DM/Propositional_logic/ICCI.md",
+    "DM/Propositional_logic/Equivalences.md",
     "DM/Propositional_logic/codes/practice.lua",
     "DM/Propositional_logic/codes/implecation.lua",
     "DM/Propositional_logic/codes/implecation.c",
@@ -211,14 +214,11 @@
     "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Equal Set.md",
-    "DM/SET/Empty Set.md",
     "Pasted image 20230406184806 1.png",
     "DM/SET/Venn Diagrams.md",
     "DS/Trees/BST/B Tree.md",
     "Verbal/GRE tips.md",
     "Math/Precalculas/Composite function.md",
-    "Math/P & C/Permutation.md",
-    "Math/College_Algebra/Rules/RADICAL RULE.md",
-    "Math/College_Algebra/Rules/Factoring.md"
+    "Math/P & C/Permutation.md"
   ]
 }
