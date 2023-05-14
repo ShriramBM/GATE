@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ebaeab8eef506423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/SQL/Introduction.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9baa019dad730d02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rough.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ce5aebd90c46c21d",
             "type": "leaf",
             "state": {
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DS/Trees/BST/AVL.md",
+                "file": "Rough.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DS/Trees/BST/AVL.md",
+                "file": "Rough.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DS/Trees/BST/AVL.md"
+                "file": "Rough.md"
               }
             }
           }
@@ -171,8 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2bb1aa20ee83e8c",
+  "active": "9baa019dad730d02",
   "lastOpenFiles": [
+    "DBMS/SQL/Introduction.md",
+    "Rough.md",
+    "DBMS/ER/ER Model.md",
+    "DBMS/ER/Entities and Attribute.md",
+    "DBMS/ER/ER Symbols.md",
+    "DBMS/ER/Relationship.md",
+    "DBMS/Untitled.md",
+    "DBMS/SQL",
+    "DS/Trees/BST/AVL.md",
     "DS/Trees/Tree Formulas.md",
     "DS/Trees/Trees Terminalogy.md",
     "DM/SET/Empty Set.md",
@@ -185,11 +218,7 @@
     "DM/Propositional_logic/important note.md",
     "C/Data_types/Float_Double.md",
     "Approches.canvas",
-    "DBMS/ER/Relationship.md",
     "DBMS/Attachments/relationship_types_attributes.png",
-    "DBMS/ER/ER Symbols.md",
-    "DBMS/ER/Entities and Attribute.md",
-    "DBMS/ER/ER Model.md",
     "DBMS/Attachments/company_db.png",
     "DM/SET/Cartisian Product.md",
     "DM/SET/Important note.md",
@@ -210,15 +239,10 @@
     "We (3rd copy)",
     "**[[venn_subset (3rd copy).png]]**",
     "The (6th copy)",
-    "The (5th copy)",
     "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Equal Set.md",
     "Pasted image 20230406184806 1.png",
-    "DM/SET/Venn Diagrams.md",
-    "DS/Trees/BST/B Tree.md",
-    "Verbal/GRE tips.md",
-    "Math/Precalculas/Composite function.md",
-    "Math/P & C/Permutation.md"
+    "DM/SET/Venn Diagrams.md"
   ]
 }
