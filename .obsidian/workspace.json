@@ -113,6 +113,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "20e34fa2673e6a0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -195,8 +203,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9baa019dad730d02",
+  "active": "e82e9b3a2c075081",
   "lastOpenFiles": [
+    "Algorithm",
     "DBMS/SQL/Introduction.md",
     "Rough.md",
     "DBMS/ER/ER Model.md",
@@ -242,7 +251,6 @@
     "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Equal Set.md",
-    "Pasted image 20230406184806 1.png",
-    "DM/SET/Venn Diagrams.md"
+    "Pasted image 20230406184806 1.png"
   ]
 }
