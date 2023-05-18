@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "9baa019dad730d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rough.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ce5aebd90c46c21d",
             "type": "leaf",
             "state": {
@@ -68,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rough.md",
+                "file": "DBMS/SQL/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rough.md",
+                "file": "DBMS/SQL/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rough.md"
+                "file": "DBMS/SQL/Introduction.md"
               }
             }
           }
@@ -203,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e82e9b3a2c075081",
+  "active": "ebaeab8eef506423",
   "lastOpenFiles": [
+    "Rough.md",
     "Algorithm",
     "DBMS/SQL/Introduction.md",
-    "Rough.md",
     "DBMS/ER/ER Model.md",
     "DBMS/ER/Entities and Attribute.md",
     "DBMS/ER/ER Symbols.md",
@@ -247,7 +235,6 @@
     "- (copy)",
     "We (3rd copy)",
     "**[[venn_subset (3rd copy).png]]**",
-    "The (6th copy)",
     "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Equal Set.md",
