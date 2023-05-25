@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "DBMS/SQL/Introduction.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -193,9 +193,11 @@
   },
   "active": "ebaeab8eef506423",
   "lastOpenFiles": [
+    "Algorithm/Sorting/Bubble.md",
+    "DBMS/SQL/Introduction.md",
+    "Algorithm/Sorting",
     "Rough.md",
     "Algorithm",
-    "DBMS/SQL/Introduction.md",
     "DBMS/ER/ER Model.md",
     "DBMS/ER/Entities and Attribute.md",
     "DBMS/ER/ER Symbols.md",
@@ -234,7 +236,6 @@
     "DBMS/ER",
     "- (copy)",
     "We (3rd copy)",
-    "**[[venn_subset (3rd copy).png]]**",
     "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
     "DM/SET/Equal Set.md",

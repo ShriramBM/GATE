@@ -2,6 +2,8 @@
   "accentColor": "",
   "cssTheme": "",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "baseFontSize": 15
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "baseFontSize": 15,
+  "textFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono"
 }
