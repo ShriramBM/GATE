@@ -37,9 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/SQL/Introduction.md",
+                "file": "DM/Proposition/Proposition.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "266564a63e390512",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
               }
             }
           },
@@ -56,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/SQL/Introduction.md",
+                "file": "DM/Proposition/Proposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/SQL/Introduction.md",
+                "file": "DM/Proposition/Proposition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/SQL/Introduction.md"
+                "file": "DM/Proposition/Proposition.md"
               }
             }
           }
@@ -191,10 +201,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ebaeab8eef506423",
+  "active": "e82e9b3a2c075081",
   "lastOpenFiles": [
-    "Algorithm/Sorting/Bubble.md",
+    "DM/Proposition",
+    "DM/Propositional_logic/important note.md",
+    "DM/Proposition/Proposition.md",
+    "DM/Propositional_logic/Application.md",
+    "DM/Propositional_logic/ICCI.md",
+    "DM/Propositional_logic/Equivalences.md",
     "DBMS/SQL/Introduction.md",
+    "Algorithm/Sorting/Bubble.md",
     "Algorithm/Sorting",
     "Rough.md",
     "Algorithm",
@@ -208,13 +224,9 @@
     "DS/Trees/Tree Formulas.md",
     "DS/Trees/Trees Terminalogy.md",
     "DM/SET/Empty Set.md",
-    "DM/Propositional_logic/ICCI.md",
-    "DM/Propositional_logic/Equivalences.md",
     "DM/Propositional_logic/codes/practice.lua",
     "DM/Propositional_logic/codes/implecation.lua",
     "DM/Propositional_logic/codes/implecation.c",
-    "DM/Propositional_logic/Application.md",
-    "DM/Propositional_logic/important note.md",
     "C/Data_types/Float_Double.md",
     "Approches.canvas",
     "DBMS/Attachments/relationship_types_attributes.png",
@@ -236,9 +248,7 @@
     "DBMS/ER",
     "- (copy)",
     "We (3rd copy)",
-    "DBMS/Introduction/1 Introduction to DBMS.md",
     "DM/Propositional_logic/Attachment/Tautoloy_Contradiction_table.png",
-    "DM/SET/Equal Set.md",
     "Pasted image 20230406184806 1.png"
   ]
 }
